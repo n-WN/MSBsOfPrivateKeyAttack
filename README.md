@@ -39,7 +39,7 @@ For example
 # Run toy exampples.
 sage -python toyExampleBDF.py # Using previous attack
 
-sage -python toyExampleBDF.py # Using our new attack
+sage -python toyExampleFNP.py # Using our new attack
 ```
 
 ### Debug
